@@ -50,3 +50,4 @@ type Produit{
    prix : Float ,
 }
 ```
+<img src="img/Capture d’écran 2019-12-15 à 00.39.49.png">
